@@ -1,4 +1,4 @@
-$('.mybuttonclass').click(
+$('.buttonclass').click(
 function(){
 alert('button clicked');
 }
