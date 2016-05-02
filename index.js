@@ -9,6 +9,8 @@ x = x.toString();
 
 $('.random_number').click(
 function(){
-$('h1').text(x);
+	var x = Math.random();
+	x = x.toString();
+	$('h1').text(x);
 }
 );
