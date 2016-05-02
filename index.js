@@ -1,1 +1,5 @@
-alert('helloooooo');
+$('.mybuttonclass').click(
+function(){
+alert('button clicked');
+}
+);
